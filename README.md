@@ -1,4 +1,4 @@
-# Expense Tracker APIs (NestJS + MongoDB)
+# Expense Tracker APIs (NestJS)
 
 A secure and scalable expense tracking backend built using **NestJS**, **MongoDB (Atlas)**, and **JWT Authentication**. It is deployed on **Vercel Serverless Functions**.
 
